@@ -1,0 +1,5 @@
+panel,comparison,n_pairs,median_default,median_method,median_gain_pp,V_max_possible,V_statistic,p_value
+Global,African DB vs Default,27,0.9581,0.9903,3.2200000000000006,378,378,5.929836983442627e-6
+Global,Combined vs Default,27,0.9581,0.9904,3.2299999999999995,378,378,5.9344232634650496e-6
+Continental-African,African DB vs Default,25,0.908833,0.98325,7.4416999999999955,325,325,1.307060547794947e-5
+Continental-African,Combined vs Default,25,0.908833,0.983583,7.474999999999998,325,325,1.307060547794947e-5

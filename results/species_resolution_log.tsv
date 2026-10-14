@@ -1,0 +1,55 @@
+ranks	gtdb_names	binomial	abundance_pct	prevalence	aliases_tried	outcome	accession	matched_organism_name	exclusion_reason
+1,6	Prevotella copri [ref_mOTU_v3_03701]; Prevotella copri_A	Prevotella copri	1.5509	0.915	Prevotella copri; Segatella copri	included	GCF_020735445.1	Segatella copri DSM 18205	
+2,10,12,17,60	Faecalibacterium prausnitzii [ref_mOTU_v3_06109]; Faecalibacterium prausnitzii_D; Faecalibacterium prausnitzii_C; Faecalibacterium prausnitzii_G; Faecalibacterium prausnitzii_E	Faecalibacterium prausnitzii	0.4693	0.973	Faecalibacterium prausnitzii	included	GCF_051201525.1	Faecalibacterium prausnitzii	
+3	ER4 sp000765235	ER4 sp000765235	0.4496	0.957	ER4 sp000765235	excluded			no RefSeq assembly found for GTDB placeholder taxon, likely MAG-only representation
+4	Blautia_A wexlerae	Blautia wexlerae	0.411	0.994	Blautia wexlerae; Blautia_A wexlerae	included	GCF_025148125.1	Blautia wexlerae DSM 19850	
+5	Agathobacter rectalis	Agathobacter rectalis	0.3996	0.959	Agathobacter rectalis	included	GCF_022453685.1	Agathobacter rectalis	
+7	ER4 sp900317525	ER4 sp900317525	0.3379	0.927	ER4 sp900317525	excluded			no RefSeq assembly found for GTDB placeholder taxon, likely MAG-only representation
+8	Dysosmobacter sp001916835	Dysosmobacter sp001916835	0.3141	0.961	Dysosmobacter sp001916835	excluded			no RefSeq assembly found for GTDB placeholder taxon, likely MAG-only representation
+9	Fusicatenibacter saccharivorans	Fusicatenibacter saccharivorans	0.3023	0.976	Fusicatenibacter saccharivorans	included	GCF_027667425.1	Fusicatenibacter saccharivorans	
+11	Prevotella hominis	Prevotella hominis	0.2024	0.729	Prevotella hominis; Segatella hominis	included	GCF_019249725.2	Segatella hominis	
+13	Not_annotated [g__Collinsella]		0.1777	0.631		excluded			no species-level classification (GTDB placeholder for unassigned reads)
+14	Ruminococcus_E bromii_B	Ruminococcus bromii	0.1678	0.84	Ruminococcus bromii; Ruminococcus_E bromii_B	included	GCF_057878015.1	Ruminococcus bromii	
+15	Acetatifactor intestinalis	Acetatifactor intestinalis	0.1579	0.924	Acetatifactor intestinalis	excluded			no RefSeq assembly found under any tried alias (Acetatifactor intestinalis)
+16	Prevotella sp900546535	Prevotella sp900546535	0.1511	0.625	Prevotella sp900546535; Segatella sp900546535	excluded			no RefSeq assembly found for GTDB placeholder taxon, likely MAG-only representation
+18	Gemmiger formicilis	Gemmiger formicilis	0.1286	0.939	Gemmiger formicilis	included	GCF_900167555.1	Gemmiger formicilis	
+19	Collinsella species incertae sedis [ext_mOTU_v3_17337]		0.1228	0.962		excluded			no species-level classification (GTDB placeholder for unassigned reads)
+20	Evtepia sp004556345	Evtepia sp004556345	0.1225	0.861	Evtepia sp004556345	excluded			no RefSeq assembly found for GTDB placeholder taxon, likely MAG-only representation
+21	CAG-83 sp000435555	CAG-83 sp000435555	0.1221	0.859	CAG-83 sp000435555	excluded			no RefSeq assembly found for GTDB placeholder taxon, likely MAG-only representation
+22	Prevotella sp900767615	Prevotella sp900767615	0.1205	0.758	Prevotella sp900767615; Segatella sp900767615	excluded			no RefSeq assembly found for GTDB placeholder taxon, likely MAG-only representation
+23	Faecalibacterium sp900539945	Faecalibacterium sp900539945	0.1197	0.952	Faecalibacterium sp900539945	excluded			no RefSeq assembly found for GTDB placeholder taxon, likely MAG-only representation
+24	UBA738 sp003522945	UBA738 sp003522945	0.1184	0.882	UBA738 sp003522945	excluded			no RefSeq assembly found for GTDB placeholder taxon, likely MAG-only representation
+25	CAG-103 sp900543625	CAG-103 sp900543625	0.1093	0.922	CAG-103 sp900543625	excluded			no RefSeq assembly found for GTDB placeholder taxon, likely MAG-only representation
+26	CAG-170 sp002404795	CAG-170 sp002404795	0.1085	0.901	CAG-170 sp002404795	excluded			no RefSeq assembly found for GTDB placeholder taxon, likely MAG-only representation
+27	Gemmiger qucibialis	Gemmiger qucibialis	0.1062	0.948	Gemmiger qucibialis	included	GCF_027689445.1	Gemmiger qucibialis	
+28	KLE1615 sp900066985	KLE1615 sp900066985	0.1021	0.957	KLE1615 sp900066985	excluded			no RefSeq assembly found for GTDB placeholder taxon, likely MAG-only representation
+29	Prevotella sp900313215	Prevotella sp900313215	0.0994	0.69	Prevotella sp900313215; Segatella sp900313215	excluded			no RefSeq assembly found for GTDB placeholder taxon, likely MAG-only representation
+30	Agathobaculum butyriciproducens	Agathobaculum butyriciproducens	0.098	0.955	Agathobaculum butyriciproducens	included	GCF_057435435.1	Agathobaculum butyriciproducens	
+31	CAG-83 sp003487665	CAG-83 sp003487665	0.0954	0.822	CAG-83 sp003487665	excluded			no RefSeq assembly found for GTDB placeholder taxon, likely MAG-only representation
+32	Blautia massiliensis [ref_mOTU_v3_03342]	Blautia massiliensis	0.0952	0.975	Blautia massiliensis	included	GCF_051861785.1	Blautia massiliensis (ex Durand et al. 2017)	
+33	Dorea formicigenerans	Dorea formicigenerans	0.0937	0.979	Dorea formicigenerans	included	GCF_025150245.1	Dorea formicigenerans	
+34	Blautia_A faecis	Blautia faecis	0.0924	0.959	Blautia faecis; Blautia_A faecis	included	GCF_055380085.1	Blautia faecis	
+35	Bariatricus comes	Bariatricus comes	0.091	0.961	Bariatricus comes; Coprococcus comes	included	GCF_025149785.1	Coprococcus comes ATCC 27758	
+36	Bacteroides dorei/vulgatus [ref_mOTU_v3_02367]	Bacteroides dorei/vulgatus	0.0885	0.689	Bacteroides dorei; Phocaeicola dorei; Bacteroides vulgatus; Phocaeicola vulgatus	included	GCF_013009555.1	Phocaeicola dorei	
+37	Anaerobutyricum hallii	Anaerobutyricum hallii	0.0861	0.934	Anaerobutyricum hallii; [Eubacterium] hallii	included	GCF_036419155.1	Anaerobutyricum hallii	
+38	Agathobacter faecis	Agathobacter faecis	0.0832	0.789	Agathobacter faecis; Roseburia faecis	included	GCF_045061065.1	Roseburia faecis	
+39,40	Dorea_A longicatena_B; Dorea_A longicatena	Dorea longicatena	0.082	0.939	Dorea longicatena; Dorea_A longicatena_B	included	GCF_025150085.1	Dorea longicatena	
+41	Clostridium_Q fessum	Clostridium fessum	0.078	0.924	Clostridium fessum; Clostridium_Q fessum	included	GCF_027698965.1	Clostridium fessum	
+42	Romboutsia timonensis	Romboutsia timonensis	0.0776	0.892	Romboutsia timonensis	included	GCF_900106845.1	Romboutsia timonensis	
+43	Cryptobacteroides sp000433355	Cryptobacteroides sp000433355	0.0749	0.555	Cryptobacteroides sp000433355	excluded			no RefSeq assembly found for GTDB placeholder taxon, likely MAG-only representation
+44	Oliverpabstia intestinalis	Oliverpabstia intestinalis	0.0736	0.929	Oliverpabstia intestinalis	included	GCF_009696065.1	Oliverpabstia intestinalis	
+45	Roseburia inulinivorans	Roseburia inulinivorans	0.073	0.868	Roseburia inulinivorans	included	GCF_977039715.1	Roseburia inulinivorans	
+46	Holdemanella porci	Holdemanella porci	0.0726	0.822	Holdemanella porci	included	GCF_056971975.1	Holdemanella porci	
+47	Phascolarctobacterium_A succinatutens	Phascolarctobacterium succinatutens	0.0713	0.686	Phascolarctobacterium succinatutens; Phascolarctobacterium_A succinatutens	included	GCF_023497905.1	Phascolarctobacterium succinatutens	
+48	Anaerobutyricum soehngenii	Anaerobutyricum soehngenii	0.0701	0.911	Anaerobutyricum soehngenii	included	GCF_048164435.1	Anaerobutyricum soehngenii	
+49	Butyricicoccus_A sp002395695	Butyricicoccus sp002395695	0.0695	0.487	Butyricicoccus sp002395695; Butyricicoccus_A sp002395695	excluded			no RefSeq assembly found for GTDB placeholder taxon, likely MAG-only representation
+50	Mediterraneibacter faecis	Mediterraneibacter faecis	0.0674	0.933	Mediterraneibacter faecis	included	GCF_055383675.1	Mediterraneibacter faecis	
+51	Succinivibrio sp000431835	Succinivibrio sp000431835	0.0674	0.553	Succinivibrio sp000431835	excluded			no RefSeq assembly found for GTDB placeholder taxon, likely MAG-only representation
+52	Limisoma sp000437795	Limisoma sp000437795	0.0662	0.692	Limisoma sp000437795	excluded			no RefSeq assembly found for GTDB placeholder taxon, likely MAG-only representation
+53	Collinsella aerofaciens [ref_mOTU_v3_03626]	Collinsella aerofaciens	0.0655	0.948	Collinsella aerofaciens	included	GCF_010509075.1	Collinsella aerofaciens ATCC 25986	
+54	Blautia_A obeum	Blautia obeum	0.0621	0.92	Blautia obeum; Blautia_A obeum	included	GCF_025147765.1	Blautia obeum ATCC 29174	
+55	Faecousia sp900544945	Faecousia sp900544945	0.0617	0.782	Faecousia sp900544945	excluded			no RefSeq assembly found for GTDB placeholder taxon, likely MAG-only representation
+56	CAG-95 sp000438155	CAG-95 sp000438155	0.061	0.815	CAG-95 sp000438155	excluded			no RefSeq assembly found for GTDB placeholder taxon, likely MAG-only representation
+57	[Ruminococcus] torques [ref_mOTU_v3_03659]	[Ruminococcus] torques	0.0604	0.924	[Ruminococcus] torques	included	GCF_000210035.1	[Ruminococcus] torques L2-14	
+58	Faecousia sp900547405	Faecousia sp900547405	0.0604	0.837	Faecousia sp900547405	excluded			no RefSeq assembly found for GTDB placeholder taxon, likely MAG-only representation
+59	UBA11524 sp000437595	UBA11524 sp000437595	0.0595	0.831	UBA11524 sp000437595	excluded			no RefSeq assembly found for GTDB placeholder taxon, likely MAG-only representation
