@@ -263,8 +263,6 @@ Aaron Y. Berkman
 Division of Human Genetics, Sydney Brenner Institute for Molecular Bioscience,
 University of the Witwatersrand, Johannesburg, South Africa
 
-Supervisors: Prof. Scott Hazelhurst, Dr. Luicer Olubayo
-
 ## References
 
 1. Katz KS, Shutov O, Lapoint R, Kimelman M, Brister JR, O'Sullivan C. STAT: a fast, scalable, MinHash-based k-mer tool to assess Sequence Read Archive next-generation sequence submissions. *Genome Biology* 2021;22:270.
