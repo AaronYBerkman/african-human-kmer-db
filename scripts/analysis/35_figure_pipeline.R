@@ -70,7 +70,7 @@ boxes <- list(
     body("Remove k-mers shared with viral genomes"))),
   list("final", W / 2, y_out, w_out, h_out, list(
     list("African human k-mer database", "bold", pt_head, ink),
-    body("1.01 billion 32-mers · 7.6 GB"),
+    body("1.01 billion 32-mers · 8.1 GB"),
     det("Human k-mers absent from microbial and viral genomes")))
 )
 
